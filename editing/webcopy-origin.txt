@@ -1,0 +1,228 @@
+Uri: https://fast.wistia.com/assets/external/E-v1.js
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\assets\external\E-v1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,700italic|Poppins:400,700,400italic,700italic&display=swap
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://kajabi-app-assets.kajabi-cdn.com/assets/core-4d08d258547af8a29fc4738e545ca8e26d95e11b829a9db5a0b36d047fb91843.css
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\assets\core-4d08d258547af8a29fc4738e545ca8e26d95e11b829a9db5a0b36d047fb91843.css
+Content Type: text/css
+
+Uri: https://kajabi-app-assets.kajabi-cdn.com/assets/encore_core-2afb8181265498e437295d91487878942cab1b17522709377f8408db9231c387.js
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\assets\encore_core-2afb8181265498e437295d91487878942cab1b17522709377f8408db9231c387.js
+Content Type: text/javascript
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/0aadb58-ccc4-223e-e431-0af1cf5d5573_67b74913-d7e4-4b5b-8e4f-08bcc64c4229.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\0aadb58-ccc4-223e-e431-0af1cf5d5573_67b74913-d7e4-4b5b-8e4f-08bcc64c4229.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/0b53ce-ee67-867-f1f4-ea888c2a0014_0c1db7b4-4dd6-4c82-99d1-c68d3919b737.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\0b53ce-ee67-867-f1f4-ea888c2a0014_0c1db7b4-4dd6-4c82-99d1-c68d3919b737.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/10273-efbf-1d17-32af-f7d6821b41a_1354a613-626d-4929-b283-d3c0f40f9312.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\10273-efbf-1d17-32af-f7d6821b41a_1354a613-626d-4929-b283-d3c0f40f9312.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/1134636-3d86-ba3e-c24-774e7ffcb06f_83815_Malice_Flat_H_01.png
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\1134636-3d86-ba3e-c24-774e7ffcb06f_83815_Malice_Flat_H_01.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/118186c-bdb3-f01a-dcf5-765e503062a_e96be559-6f13-4bc8-a4d3-f209ed6d817b.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\118186c-bdb3-f01a-dcf5-765e503062a_e96be559-6f13-4bc8-a4d3-f209ed6d817b.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/746bd50-82bd-2a41-2445-442e743edd4_0b34cd68-bd60-4798-958f-6580f52f4603.png
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\746bd50-82bd-2a41-2445-442e743edd4_0b34cd68-bd60-4798-958f-6580f52f4603.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/aac1ac8-ee65-ecc8-2e2b-6bc771c20315_83815_Malice_Flat_H_02.png?v=2
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\aac1ac8-ee65-ecc8-2e2b-6bc771c20315_83815_Malice_Flat_H_02.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/af02eea-be7d-41b8-8068-33ec50cd5014_mrbro_pfp.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\af02eea-be7d-41b8-8068-33ec50cd5014_mrbro_pfp.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/ebd70a5-fd88-71c0-82b6-ad857041372e_socksfor1_pfp.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\ebd70a5-fd88-71c0-82b6-ad857041372e_socksfor1_pfp.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/f12fde-768d-4716-0bce-e041aab1c88_QjZ_oXS9_400x400.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\f12fde-768d-4716-0bce-e041aab1c88_QjZ_oXS9_400x400.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153402398/settings_images/f548458-dd14-68aa-f4c-fe4abaa6674_2f6e7dfc-030b-420f-adc3-675078a74822.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153402398\settings_images\f548458-dd14-68aa-f4c-fe4abaa6674_2f6e7dfc-030b-420f-adc3-675078a74822.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/15a5b0d-b436-0165-15f8-e755210d22d_dj_cook_pfp.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\15a5b0d-b436-0165-15f8-e755210d22d_dj_cook_pfp.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/4d0bae3-14cf-4ad-41fb-22de262e3fc3_Malice_Media_Signature.png
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\4d0bae3-14cf-4ad-41fb-22de262e3fc3_Malice_Media_Signature.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/5186873-17f8-623-7b4d-d570151a253a_unnamed.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\5186873-17f8-623-7b4d-d570151a253a_unnamed.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/5afcf1-81ab-2606-fd3-7baf3b404f5b_maxresdefault.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\5afcf1-81ab-2606-fd3-7baf3b404f5b_maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/86fd86-0c8-f88-142-aa4d2e5702f_00c6088d-6390-406a-ad6c-294f16fb28db.png
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\86fd86-0c8-f88-142-aa4d2e5702f_00c6088d-6390-406a-ad6c-294f16fb28db.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/d5ec580-8ba-b7b3-f050-7f6e170d374_maxresdefault.jpg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\d5ec580-8ba-b7b3-f050-7f6e170d374_maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/e4837e0-74c-2172-813d-fc623642d1c_58de6764-d098-4d23-bf85-81c97f1e5ff5.png
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\e4837e0-74c-2172-813d-fc623642d1c_58de6764-d098-4d23-bf85-81c97f1e5ff5.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/themes/2153843063/settings_images/f1e31b6-c14a-2516-7bda-34e2c23bfc43_favicon-modified.png
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\file-uploads\themes\2153843063\settings_images\f1e31b6-c14a-2516-7bda-34e2c23bfc43_favicon-modified.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2153843063/assets/overrides.css?1722629751519385
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\themes\2153843063\assets\overrides.css
+Content Type: text/css
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2153843063/assets/placeholder.png?1722629751519385
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\themes\2153843063\assets\placeholder.png
+Content Type: image/png
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2153843063/assets/scripts.js?1722629751519385
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\themes\2153843063\assets\scripts.js
+Content Type: application/javascript
+
+Uri: https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2153843063/assets/styles.css?1722629751519385
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\kajabi-storefronts-production\themes\2153843063\assets\styles.css
+Content Type: text/css
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4579975198280270
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/css/all.css
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot?
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.svg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff2
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot?
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.svg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff2
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot?
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.svg
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.ttf
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff2
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\releases\v5.15.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-0B6BB0F0VL
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.vfxmalice.com/portfolio
+File Name: C:\Users\LAWRENCE\Desktop\www.vfxmalice.com\portfolio.html
+Content Type: text/html
+
