@@ -1,0 +1,1220 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.1/TweenMax.min.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\ajax\libs\gsap\2.0.1\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.4.1.min.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://deadmau5.com/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/?rsd
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\index-1.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/apple-touch-icon.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/artist-competition-with-masterclass/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\artist-competition-with-masterclass\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/beathau5/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\beathau5\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/billboard-canada-inducts-deadmau5-into-canadian-music-weeks-music-industry-hall-of-fame/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\billboard-canada-inducts-deadmau5-into-canadian-music-weeks-music-industry-hall-of-fame\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/billboard-cover/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\billboard-cover\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/cdn-cgi/l/email-protection
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://deadmau5.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://deadmau5.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://deadmau5.com/deadmau5-releases-digital-collectibles/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\deadmau5-releases-digital-collectibles\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/deadmau5-teams-with-fandiem-in-support-of-the-aspca/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\deadmau5-teams-with-fandiem-in-support-of-the-aspca\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/deadmau5-x-meta/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\deadmau5-x-meta\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/deadmau5-x-streamvoodoo/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\deadmau5-x-streamvoodoo\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/deadmau5-x-zytara/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\deadmau5-x-zytara\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/exploring-musics-new-digital-reality-unreal-engine/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\exploring-musics-new-digital-reality-unreal-engine\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/favicon-16x16.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/favicon-32x32.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/grammy-nominated/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\grammy-nominated\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/kx5-at-the-l-a-coliseum/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\kx5-at-the-l-a-coliseum\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/mau5-is-developing-oberhasli/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\mau5-is-developing-oberhasli\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/mau5hop/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\mau5hop\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/news/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\news\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/news/page/2/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\news\page\2\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/news/page/3/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\news\page\3\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/oberhasli-is-now-open/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\oberhasli-is-now-open\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/osc-par/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\osc-par\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/pollstar/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\pollstar\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/privacy-policy/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/radio/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\radio\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/escape/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\escape\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/ghosts-n-stuff-jauz-remix/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\ghosts-n-stuff-jauz-remix\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/i-remember-john-summit-remix/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\i-remember-john-summit-remix\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/infraliminal/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\infraliminal\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/not-exactly-rebuke-remix/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\not-exactly-rebuke-remix\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/quezacotl/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\quezacotl\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/some-ep/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\some-ep\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/release/wet/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\release\wet\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/releases/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\releases\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/rescheduled-cancelled-events/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\rescheduled-cancelled-events\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/retro5pective/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\retro5pective\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/safari-pinned-tab.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/shows/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\shows\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/site.webmanifest
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://deadmau5.com/spotify-power-house-w-peloton/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\spotify-power-house-w-peloton\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/terms-of-service/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\terms-of-service\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/the-pixelynx-portal-is-open/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\the-pixelynx-portal-is-open\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/the-sandbox-to-feature-richie-hawtin-and-deadmau5-in-hot-new-metaverse-collaboration/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\the-sandbox-to-feature-richie-hawtin-and-deadmau5-in-hot-new-metaverse-collaboration\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/video/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\video\index.htm
+Content Type: text/html
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/css/style.css?v=4
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\css\style.css
+Content Type: text/css
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/fonts/spacegrotesk-light-webfont.woff
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\fonts\spacegrotesk-light-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/fonts/spacegrotesk-light-webfont.woff2
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\fonts\spacegrotesk-light-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/fonts/spacegrotesk-semibold-webfont.woff
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\fonts\spacegrotesk-semibold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/fonts/spacegrotesk-semibold-webfont.woff2
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\fonts\spacegrotesk-semibold-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/amazon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\amazon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/applemusic.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\applemusic.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/arrowDown.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\arrowDown.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/arrowLeft.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\arrowLeft.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/arrowRight.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\arrowRight.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/beatport.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\beatport.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/close.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\close.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/deezer.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\deezer.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/discord-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\discord-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/dotd.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\dotd.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/facebook-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\facebook-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/googlePlay.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\googlePlay.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/ig-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\ig-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/list-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\list-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/map-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\map-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/mau5.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\mau5.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/play-tri.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\play-tri.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/reddit-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\reddit-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/spotify.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\spotify.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/tidal.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\tidal.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/twitter-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\twitter-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/images/youtube-icon.svg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\images\youtube-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/js/components/mau5-min.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\js\components\mau5-min.js
+Content Type: application/x-javascript
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/js/main-min.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\js\main-min.js
+Content Type: application/x-javascript
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/js/plugins-min.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\js\plugins-min.js
+Content Type: application/x-javascript
+
+Uri: https://deadmau5.com/wp-content/themes/deadmau5/js/vendor/modernizr-3.7.1.min.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\themes\deadmau5\js\vendor\modernizr-3.7.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/02/1-80x53.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\02\1-80x53.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/02/819ba847-e810-4bca-810c-ce4a0ea3ed5e-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\02\819ba847-e810-4bca-810c-ce4a0ea3ed5e-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/02/aa6fe84b-5924-417b-ae32-7f02e176eeee-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\02\aa6fe84b-5924-417b-ae32-7f02e176eeee-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/02/ced70378-2577-4292-9b39-bacc4b851c4f-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\02\ced70378-2577-4292-9b39-bacc4b851c4f-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/02/MAU5TRAP-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\02\MAU5TRAP-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/03/Screenshot-2020-05-07-at-16.25.36-80x43.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\03\Screenshot-2020-05-07-at-16.25.36-80x43.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/A97I8203-80x53.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\A97I8203-80x53.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/A97I8924-1-80x53.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\A97I8924-1-80x53.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/BSOD-Cover-Art-Final-2-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\BSOD-Cover-Art-Final-2-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/Cube-Remixes-18-1-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\Cube-Remixes-18-1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/deadmau5-merch-shirt-cereal-tee-main-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\deadmau5-merch-shirt-cereal-tee-main-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/deadmau5-merch-shirt-tee-stretched-main-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\deadmau5-merch-shirt-tee-stretched-main-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/IMG_9098-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\IMG_9098-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/masterclass2-80x42.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\masterclass2-80x42.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/mau5ville-Level-Complete-Multi-Print-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\mau5ville-Level-Complete-Multi-Print-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/Screenshot-2020-05-12-at-14.41.06-80x33.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\Screenshot-2020-05-12-at-14.41.06-80x33.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/Screenshot-2020-05-18-at-14.35.44-80x38.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\Screenshot-2020-05-18-at-14.35.44-80x38.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/05/Thumbnail-80x45.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\05\Thumbnail-80x45.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/06/Pomegranate-French-Original-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\06\Pomegranate-French-Original-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/06/Pomegranate-Ninajirachi-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\06\Pomegranate-Ninajirachi-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/07/Pomegranate-Carl-Cox-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\07\Pomegranate-Carl-Cox-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/07/RC2.2085.Still071-1-80x45.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\07\RC2.2085.Still071-1-80x45.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/08/image0-80x52.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\08\image0-80x52.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/08/IMG_1957-1-80x38.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\08\IMG_1957-1-80x38.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/08/Pomegranate-Jay-Robinson-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\08\Pomegranate-Jay-Robinson-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/11/124207682_173327854410277_6361673110560996807_o-80x57.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\11\124207682_173327854410277_6361673110560996807_o-80x57.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/11/deadmau5-Kiesza-Bridged-By-A-Lightwave-1-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\11\deadmau5-Kiesza-Bridged-By-A-Lightwave-1-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/12/BBAL_Lamorn_Remix_1500PX_02-1-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\12\BBAL_Lamorn_Remix_1500PX_02-1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/12/BBAL_TommyTrash_Remix_3000PX_02-2-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\12\BBAL_TommyTrash_Remix_3000PX_02-2-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2020/12/D5_Rarez_Press-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2020\12\D5_Rarez_Press-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/01/deadmau5-Kiesza-Bridged-By-A-Lightwave-Acoustic-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\01\deadmau5-Kiesza-Bridged-By-A-Lightwave-Acoustic-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/01/deadmau5_Channel43_Packshot_1200px-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\01\deadmau5_Channel43_Packshot_1200px-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/02/WAFX-Artwork-Final-80x80.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\02\WAFX-Artwork-Final-80x80.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/03/H5_D5_Nextra_001-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\03\H5_D5_Nextra_001-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/04/Hypnocurrency-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\04\Hypnocurrency-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/04/Profile-Banner-80x61.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\04\Profile-Banner-80x61.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/04/Screen-Shot-2021-03-22-at-6.46.10-PM-80x68.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\04\Screen-Shot-2021-03-22-at-6.46.10-PM-80x68.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/05/1_knLLYGV4Xcu7PenaDfOEVg-1-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\05\1_knLLYGV4Xcu7PenaDfOEVg-1-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/05/1_knLLYGV4Xcu7PenaDfOEVg-3-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\05\1_knLLYGV4Xcu7PenaDfOEVg-3-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/05/Background-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\05\Background-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/05/CH43-Remix_GoFreek_4000px-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\05\CH43-Remix_GoFreek_4000px-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/05/deadmau5_Channel43_Night_Moves_Packshots-1-1-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\05\deadmau5_Channel43_Night_Moves_Packshots-1-1-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/06/3_YT-Thumbnail_1920x1080_DEADMAU5_Panel-80x45.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\06\3_YT-Thumbnail_1920x1080_DEADMAU5_Panel-80x45.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/06/CH43-Remix_JeromePrice_4000px-1.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\06\CH43-Remix_JeromePrice_4000px-1.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/07/summer-dies-art-new-2-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\07\summer-dies-art-new-2-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/08/Screenshot-2021-08-26-at-11.16.28-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\08\Screenshot-2021-08-26-at-11.16.28-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/08/Screenshot-2021-08-26-at-11.16.44-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\08\Screenshot-2021-08-26-at-11.16.44-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/10/Copy-of-core_x_deadmau5_concert-10-80x45.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\10\Copy-of-core_x_deadmau5_concert-10-80x45.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/10/Copy-of-core_x_deadmau5_concert_start-80x45.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\10\Copy-of-core_x_deadmau5_concert_start-80x45.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/10/DM_Module_622x250_2x-80x32.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\10\DM_Module_622x250_2x-80x32.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/10/Hyperlandia-deadmau5-ft-FTP-1-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\10\Hyperlandia-deadmau5-ft-FTP-1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/11/head5-banner_seb-80x45.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\11\head5-banner_seb-80x45.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2021/12/IMG_7147-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2021\12\IMG_7147-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/02/Kx5_Escape_Final_3000px-1-copy-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\02\Kx5_Escape_Final_3000px-1-copy-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/05/1-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\05\1-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/05/5-1-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\05\5-1-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/05/maxresdefault-1-80x45.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\05\maxresdefault-1-80x45.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/05/maxresdefault-2-80x45.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\05\maxresdefault-2-80x45.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/05/maxresdefault-3-80x45.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\05\maxresdefault-3-80x45.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/05/maxresdefault-80x45.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\05\maxresdefault-80x45.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/06/DEADMAU54536-80x59.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\06\DEADMAU54536-80x59.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/06/WAFXI_deadmau5_XYZ-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\06\WAFXI_deadmau5_XYZ-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/07/KX5_EscapeRemixes_Packshot_3000px-1-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\07\KX5_EscapeRemixes_Packshot_3000px-1-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/08/deadmau5_ResidentEvil_NetflixSeries_Cover-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\08\deadmau5_ResidentEvil_NetflixSeries_Cover-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/08/WAFXI_deadmau5_XYZ_NeroRemix-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\08\WAFXI_deadmau5_XYZ_NeroRemix-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/09/Kx5-Take-Me-High-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\09\Kx5-Take-Me-High-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/09/YouTube-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\09\YouTube-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/10/alive-artwork-04-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\10\alive-artwork-04-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/11/Copy-of-avalanche-artwork-Final-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\11\Copy-of-avalanche-artwork-Final-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/12/IMG_0016-80x53.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\12\IMG_0016-80x53.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/12/IMG_0018-80x53.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\12\IMG_0018-80x53.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/12/K5_When-I-Talk_7-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\12\K5_When-I-Talk_7-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2022/12/Kx5LA2022-8206-80x53.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2022\12\Kx5LA2022-8206-80x53.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/01/WAFXI_Album_Artwork-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\01\WAFXI_Album_Artwork-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/01/WAFXI_deadmau5_Antisec-1-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\01\WAFXI_deadmau5_Antisec-1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/02/Sacrifice-Artwork-Final-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\02\Sacrifice-Artwork-Final-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/03/3cover_Kx5_HIGHRES-62x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\03\3cover_Kx5_HIGHRES-62x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/03/Kx5_Album_Artwork_Final-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\03\Kx5_Album_Artwork_Final-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-16.32.01-80x36.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\05\Screenshot-2023-05-10-at-16.32.01-80x36.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-16.33.25-80x45.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\05\Screenshot-2023-05-10-at-16.33.25-80x45.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-16.34.28-80x44.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\05\Screenshot-2023-05-10-at-16.34.28-80x44.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-16.38.12-80x44.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\05\Screenshot-2023-05-10-at-16.38.12-80x44.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-16.40.14-80x39.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\05\Screenshot-2023-05-10-at-16.40.14-80x39.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/07/deadmau5_IRememberJohnSummitRemix_3000px-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\07\deadmau5_IRememberJohnSummitRemix_3000px-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/10/deadmau5_ghostsnstuff_JauzRemix_3000px-72dpi-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\10\deadmau5_ghostsnstuff_JauzRemix_3000px-72dpi-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/10/rezzmau5_Infraliminal-1-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\10\rezzmau5_Infraliminal-1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/11/8.August-Banner-80x44.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\11\8.August-Banner-80x44.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/11/kx5la2022-0714v2-80x53.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\11\kx5la2022-0714v2-80x53.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2023/11/Kx5LA2022-8206-80x53.jpeg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2023\11\Kx5LA2022-8206-80x53.jpeg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/02/website-80x45.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\02\website-80x45.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/04/NotExactly_Artwork_1-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\04\NotExactly_Artwork_1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/06/A07I6375-scaled-e1719399982852-80x71.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\06\A07I6375-scaled-e1719399982852-80x71.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/06/A07I6441-80x53.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\06\A07I6441-80x53.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/06/d5_Quezacotl_1B-2-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\06\d5_Quezacotl_1B-2-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/07/d5_art_1-80x80.jpg
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\07\d5_art_1-80x80.jpg
+Content Type: image/jpeg
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/07/Facebook_2-80x44.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\07\Facebook_2-80x44.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-content/uploads/2024/07/Testpilot_Wet_1B-80x80.png
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-content\uploads\2024\07\Testpilot_Wet_1B-80x80.png
+Content Type: image/png
+
+Uri: https://deadmau5.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.10
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://deadmau5.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://deadmau5.com/wp-json/
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fartist-competition-with-masterclass%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fartist-competition-with-masterclass%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fbeathau5%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fbeathau5%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fbillboard-canada-inducts-deadmau5-into-canadian-music-weeks-music-industry-hall-of-fame%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fbillboard-canada-inducts-deadmau5-into-canadian-music-weeks-music-industry-hall-of-fame%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fbillboard-cover%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fbillboard-cover%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-releases-digital-collectibles%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-releases-digital-collectibles%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-teams-with-fandiem-in-support-of-the-aspca%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-teams-with-fandiem-in-support-of-the-aspca%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-x-meta%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-x-meta%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-x-streamvoodoo%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-x-streamvoodoo%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-x-zytara%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fdeadmau5-x-zytara%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fexploring-musics-new-digital-reality-unreal-engine%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fexploring-musics-new-digital-reality-unreal-engine%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fgrammy-nominated%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fgrammy-nominated%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fkx5-at-the-l-a-coliseum%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fkx5-at-the-l-a-coliseum%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fmau5-is-developing-oberhasli%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fmau5-is-developing-oberhasli%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fmau5hop%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fmau5hop%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fnews%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fnews%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Foberhasli-is-now-open%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Foberhasli-is-now-open%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fosc-par%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fosc-par%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fpollstar%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fpollstar%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fprivacy-policy%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fprivacy-policy%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fradio%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fradio%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fescape%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fescape%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fghosts-n-stuff-jauz-remix%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fghosts-n-stuff-jauz-remix%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fi-remember-john-summit-remix%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fi-remember-john-summit-remix%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Finfraliminal%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Finfraliminal%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fnot-exactly-rebuke-remix%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fnot-exactly-rebuke-remix%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fquezacotl%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fquezacotl%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fsome-ep%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fsome-ep%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fwet%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frelease%2Fwet%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Freleases%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Freleases%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frescheduled-cancelled-events%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Frescheduled-cancelled-events%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fretro5pective%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fretro5pective%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fshows%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fshows%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fspotify-power-house-w-peloton%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fspotify-power-house-w-peloton%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fterms-of-service%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fterms-of-service%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fthe-pixelynx-portal-is-open%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fthe-pixelynx-portal-is-open%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fthe-sandbox-to-feature-richie-hawtin-and-deadmau5-in-hot-new-metaverse-collaboration%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fthe-sandbox-to-feature-richie-hawtin-and-deadmau5-in-hot-new-metaverse-collaboration%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fvideo%2F
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdeadmau5.com%2Fvideo%2F&format=xml
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/137
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\137
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/155
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\155
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/194
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\194
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/196
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\196
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/3
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/327
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\327
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/5
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\5
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/pages/61
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\pages\61
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/1051
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\1051
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/1108
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\1108
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/157
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\157
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/280
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\280
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/287
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\287
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/295
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\295
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/350
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\350
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/383
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\383
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/396
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\396
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/451
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\451
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/458
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\458
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/485
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\485
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/495
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\495
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/520
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\520
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/558
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\558
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/583
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\583
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/587
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\587
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/698
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\698
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/717
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\717
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/841
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\841
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/876
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\876
+Content Type: application/json
+
+Uri: https://deadmau5.com/wp-json/wp/v2/posts/993
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\wp-json\wp\v2\posts\993
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?family=Chivo:300,700|Press+Start+2P
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/chivo/v18/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ekGrW.ttf
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\s\chivo\v18\va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ekGrW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/chivo/v18/va9b4kzIxd1KFppkaRKvDRPJVDf_WxjekGrW.ttf
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\s\chivo\v18\va9b4kzIxd1KFppkaRKvDRPJVDf_WxjekGrW.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf
+Content Type: font/ttf
+
+Uri: https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\downloads.mailchimp.com\js\mc-validate.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=473015616565590&ev=PageView&noscript=1
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-144763188-1
+File Name: C:\Users\LAWRENCE\Desktop\deadmau5.com\gtag\js
+Content Type: application/javascript
+
