@@ -32,46 +32,6 @@ li {
     transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out; /* Color transition effect */
 }
 
-/* Define different colors for each list item */
-li:nth-child(1) {
-    background-color: #FF5733;
-}
-
-li:nth-child(2) {
-    background-color: #33FF57;
-}
-
-li:nth-child(3) {
-    background-color: goldenrod;
-}
-
-li:nth-child(4) {
-    background-color: #FF33A1;
-}
-
-li:nth-child(5) {
-    background-color: #33A1FF;
-}
-
-li:nth-child(6) {
-    background-color: #A1FF33;
-}
-
-li:nth-child(7) {
-    background-color: #33FFA1;
-}
-
-li:nth-child(8) {
-    background-color: #A133FF;
-}
-
-li:nth-child(9) {
-    background-color: #FFA133;
-}
-
-li:nth-child(10) {
-    background-color: #33FF33;
-}
 
 /* Define color change on hover */
 li:hover {
